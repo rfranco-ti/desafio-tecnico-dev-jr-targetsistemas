@@ -7,8 +7,7 @@ Este repositório contém a solução completa para o desafio técnico proposto,
 ## ✔️ Tecnologias Utilizadas
 
 - C# (.NET 6 ou superior)
-- JavaScript (Node.js)
-- System.Text.Json (para leitura de JSON)
+- JavaScript (Node.js v18.17.0 ou superior)
 - Console Application
 - VS Code / Visual Studio
 
